@@ -1,0 +1,21 @@
+#include<iostream>
+
+usingnamespacestd;
+
+int main()
+{
+	int month;
+	double forecast;
+	double ademand;
+	double prediction;
+
+	do
+	{
+	    cout<<"Enter number of Month (1-12): ";
+	    cin>>month;
+	    if (month == 1);
+	    cout<<"The Previous Forecast is 21.";
+	    
+	
+	return 0;
+}
